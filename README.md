@@ -5,8 +5,6 @@ Examen de programación 2024/2025 3º Evaluación
 
 ## Resumen de carpetas y archivos
 
----
-
 - **07ExpresionesOperadores/**
   - Ejercicios sobre operadores, conversiones y operaciones matemáticas básicas en Java.
 
@@ -65,8 +63,6 @@ Examen de programación 2024/2025 3º Evaluación
 
 ## Proyecto especial: Juegos del Hambre
 
----
-
 **Ruta:** `ExamenProgramacion/JuegosDelHambre.java`
 
 **Descripción general:**
@@ -89,9 +85,3 @@ Este proyecto es una simulación inspirada en los "Juegos del Hambre". Permite c
 - Lógica de simulación y generación de eventos aleatorios.
 - Control de flujo, bucles, condiciones y métodos estáticos.
 - Interacción con el usuario y generación de informes en consola.
-
----
-
-Cada carpeta contiene los archivos Java correspondientes a los ejercicios propuestos en clase, organizados por tema y dificultad. Puedes consultar cada archivo para ver la solución y probar los ejemplos en tu entorno de desarrollo.
-
----
